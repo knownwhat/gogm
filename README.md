@@ -10,7 +10,7 @@ go get -u github.com/mindstand/gogm
 #### Documentation updates will be coming periodically as this project matures
 
 ## Features
-- Struct Mapping through the `gogm` struct decorator
+- Struct Mapping through the `gogm` struct decorator.
 - Full support for ACID transactions
 - Underlying connection pooling
 - Support for HA Casual Clusters using `bolt+routing` through the [Official Neo4j Go Driver](https://github.com/neo4j/neo4j-go-driver)
